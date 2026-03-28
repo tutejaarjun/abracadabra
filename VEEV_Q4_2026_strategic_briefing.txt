@@ -1,0 +1,93 @@
+Veeva Systems Strategic Briefing. Fiscal Q4 2026 Earnings Call.
+
+Welcome to this strategic briefing on Veeva Systems. This is your deep dive into what's actually changing at this company, beyond the quarterly noise. We're covering the Vault CRM migration, their AI philosophy, how they think about trust and culture, the evolving product portfolio, and where this company is headed over the next decade.
+
+Let's start with the biggest strategic story at Veeva right now: the Vault CRM migration away from Salesforce.
+
+Chapter One. The Salesforce Divorce.
+
+Veeva is in the middle of one of the most consequential platform migrations in enterprise software. They're moving their entire CRM customer base off Salesforce and onto their own Vault CRM platform. And it's going better than expected.
+
+Close to 140 customers are now live on Vault CRM. That's up from the 125-plus figure they'd been citing. They're executing well across company sizes, from the very largest pharma companies down to the smallest, and across every region globally.
+
+Here's the big signal: Veeva pulled the Salesforce end-of-support date forward by about nine months, from September 2030 to December 2029. Why? Because the migration is going so well that they don't want stragglers lingering into 2030. They don't have any customers with migration projects planned that far out. This is a confident move. It says: we're ahead of schedule, let's close the door sooner.
+
+On the top 20 pharma companies, about 14 or 15 of the 20 are expected to come to Vault CRM. Most of those decisions are already made. About five remain undecided, and those decisions will play out over the coming months. Two top 20 companies are already live and operating on Vault CRM in all major markets.
+
+And here's the competitive angle. Gassner noted that not all the Salesforce migration projects at other companies are going well. One top 20 pharma company has contracted a large development team in India through a third-party systems integrator to build a custom Salesforce-based solution. Gassner's view? There's greater risk for companies that chose to stay with Salesforce through a custom build than for those migrating to Veeva's proven product.
+
+An important cross-sell dynamic is emerging. When customers migrate to Vault CRM, it creates an opportunity to land new products they didn't have before. Several top 20 companies expanded globally with Veeva Network and OpenData as part of their Vault CRM migration. Small and mid-sized companies are turning on Service Center and Campaign Manager. The migration isn't just a swap; it's an expansion event.
+
+Paul Shawah, who leads strategy, said something telling about win rates. Outside the top 20, they expect win rates to be even higher than inside the top 20, because mid-size pharma companies want a trusted partner and a product they know will work. They don't have the resources for speculative custom builds.
+
+Chapter Two. The AI Philosophy: Symbiotic, Not Cannibalistic.
+
+The dominant question on every analyst's mind was about AI, and Peter Gassner gave one of the most articulate AI frameworks you'll hear from any enterprise software CEO.
+
+His core thesis: AI is not replacing software. It is not going to replace core systems of record like Veeva, SAP, or Workday. These systems are essential. What AI will do is create new kinds of applications that couldn't exist before, what he called long-tail software. Company-specific tools. Industry-specific agents. Dramatically better coding tools. Self-driving cars. Better search.
+
+On the relationship with large language model providers like Anthropic and OpenAI, Gassner used the word "symbiotic" repeatedly. He compared it to the cloud infrastructure era. Veeva couldn't have built its industry cloud for life sciences without AWS, Azure, and Google Cloud. Similarly, Veeva won't build AI applications without the foundational LLMs. But just as Amazon didn't build industry-specific applications, Gassner doesn't expect Anthropic or OpenAI to build life-sciences-specific software. That takes domain expertise, regulatory knowledge, customer relationships, and years of data. That's Veeva's territory.
+
+Customers, he said, bucket their AI needs into roughly four categories. First, infrastructure providers: the LLM companies themselves. Second, point solution providers who can run a proof of concept for a specific department. Third, systems integrators. And fourth, core application vendors like Veeva, Workday, and SAP. When customers talk to Veeva, they want AI tightly integrated with their core systems because they trust that it will work. Their reputation is on the line.
+
+On the AI agent strategy specifically. Veeva is rolling out pre-packaged agents, not primarily custom-build tools. There's a lot of logic in these agents, written in Java, with detailed data curation and testing pipelines. Customers would rather get a proven solution than build it themselves. Custom agents for lighter use cases will come in the second half of the year.
+
+On AI pricing, they're starting with a token-based model, but the focus is squarely on product excellence and customer success first. The financial impact is years out. This isn't about near-term monetization.
+
+The most commercially advanced AI area right now is commercial content. The value proposition is clear: faster content creation, lower cost, compliant. In life sciences, the speed at which you can get approved content to market directly affects revenue, because products have patent expiration dates. There's intense customer interest.
+
+In safety, the AI opportunity is about replacing expensive human labor in case intake and case narrative generation. This is not high-risk work in terms of the AI application, but it has to be done well, and it's costly to hire for. Veeva is the only company that can offer a great core safety system with AI on top that connects to your other Veeva systems. That's the lock-in.
+
+Chapter Three. Trust as a Strategic Moat.
+
+When an analyst asked Gassner how customers rank Veeva's advantages, including mission-critical software, network effects, proprietary data, and domain expertise, he didn't pick one. He said customers view it as a whole. They understand Veeva's systems, processes, and technology. They've delivered on everything they've said for 15 years.
+
+But then he said something more interesting. He said, quote, it's not just blind trust; it's earned trust. We really take customer success seriously. When we commit to something, we're going to do it. And we won't get a sale by committing to something we can't do.
+
+That's a culture statement disguised as a competitive strategy answer. In an industry where pharmaceutical companies are managing products that can be pulled off the market if safety systems fail, trust isn't a nice-to-have. It's the entire buying decision. Gassner made this explicit. He said, we're not making systems that help people write better emails. If your products get pulled off the market, that's a big deal.
+
+This trust culture also shows up in how Gassner spends his time. He mentioned that every single day, he's talking to at least one customer, whether by text, call, or email. For a CEO of a company this size, that level of customer intimacy is unusual and deliberate.
+
+Chapter Four. The Product Portfolio Is Shifting.
+
+There's a quiet but significant mix shift happening in Veeva's product portfolio. Growth is moving from mature products like eTMF, which is their electronic trial master file system, toward newer and larger opportunities: RTSM for randomization and trial supply management, EDC for electronic data capture, Safety, and LIMS for laboratory information management.
+
+RTSM is emerging as potentially as significant as EDC. It handles shipping drug supplies to research sites worldwide and randomizing patients into the right trial cohorts. Gassner called it extremely detailed and critical work. A top 20 pharma company just standardized on Veeva RTSM in a milestone long-term deal, and the selling motion is different from other products because these are bought study-by-study, often by therapeutic area.
+
+The study-by-study business is a major strategic focus. Gassner said it could become a one billion dollar business internally. EDC, RTSM, and eCOA are all sold on a per-study basis. And the new channel they're developing is the CRO, or contract research organization channel. Small biotechs outsource their clinical trials to CROs, and if Veeva can get CROs to offer Veeva technology to their customers as an OEM solution, the addressable market expands dramatically. This is a go-to-market evolution, not a new product, and it's getting real investment.
+
+Veeva Basics is another important growth vector. This is the down-market offering for small and emerging biotech companies, and the team has been executing well here, expanding the customer base meaningfully.
+
+Chapter Five. People and Organization.
+
+A few important signals on the people side. Veeva has been actively hiring to meet demand from CRM migration activity. The business consulting team and R&D services team are both growing. Professional services had an outstanding year, and the company is investing in headcount while maintaining discipline.
+
+Gassner's leadership style came through clearly on this call. He answered the vast majority of questions himself, with occasional handoffs to CFO Brian Van Wagener and strategy lead Paul Shawah. He's deeply in the details, from competitive dynamics to individual product roadmaps to the philosophical framing of AI's impact on drug development.
+
+On the broader team, Gassner closed the call by thanking the Veeva team for their outstanding work during the quarter and the year. A small thing, but consistent with the earned-trust culture: he attributes results to the team rather than to strategy or market conditions.
+
+Chapter Six. The Long Game: Patients and the Ten-Year Horizon.
+
+The most passionate moment on the call came when Gassner talked about AI's potential impact on patient outcomes. He said the real bottleneck in life sciences isn't drug discovery. It's the clinical trial, which runs on human biology and can't be sped up by AI. And it's patient access: getting the right patient diagnosed, to the right doctor, treated with the right medicine, in time. He estimated that 90 percent of the value in life sciences is lost because of this impediment.
+
+AI and large language models can help bridge the gap between doctors and patients. AI doctors are coming. Omni-channel experiences that include AI are coming. And Veeva, which connects the industry to its external ecosystem of clinical researchers, patients, doctors, and regulators, is positioned to play a role.
+
+He mentioned Veeva's partnership with BioMarin, focused on genetic diseases in young and disadvantaged children. That wasn't a casual aside. It reveals something about what motivates the company at a leadership level.
+
+This is a company thinking in decades, not quarters. Gassner said people get caught up in AI hype and think it will play out in one or two months. His view: this plays out over 10 to 20 years.
+
+Chapter Seven. The Macro and Regulatory Backdrop.
+
+Paul Shawah addressed the macro environment directly. Pharma companies now have more certainty than they did six months ago, with clarity on MFN tariffs and administration deals. There's cautious optimism in the industry. But Veeva's guidance is based on customer project plans and longer planning cycles, not short-term macro swings. They're generally insulated from quarter-to-quarter volatility.
+
+On CRM end-of-support specifically, the move to December 2029 is partly a signal to the industry: don't delay. Get your migration done. Veeva doesn't want stragglers creating uncertainty.
+
+Wrapping Up.
+
+So what's the strategic picture? Veeva is a company executing a massive platform migration on schedule, with its AI strategy clearly articulated as additive rather than threatening. The product portfolio is expanding into larger clinical trial opportunities. The culture is built on earned trust and founder-led customer intimacy. And the long-term vision is about improving patient outcomes over a 10 to 20 year horizon.
+
+The risks to watch: whether those remaining top 20 CRM decisions land as expected. Whether the study-by-study and CRO channel bets actually scale into the billion-dollar opportunity Gassner envisions. And whether AI becomes a meaningful differentiator before competitors close the gap.
+
+But for now, this is a company that knows exactly what it is, and more importantly, what it is not. And that clarity is its biggest strategic asset.
+
+This has been your strategic briefing on Veeva Systems, Q4 fiscal 2026.
