@@ -38,25 +38,5 @@
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
-    <item>
-      <title>VEEV Deep Dive — Five Banks, Four Years</title>
-      <description>Veeva Systems: The Pharma Software Fortress. A comprehensive deep dive synthesizing equity research from Cowen (Dec 2022), JPMorgan (Oct 2022 and Sep 2025), BNP Paribas (Oct 2024), BMO Capital Markets (Nov 2025), and UBS (Feb 2026). Covers the full business model, the Vault CRM migration, the Salesforce and IQVIA competitive battles, the AI debate, management philosophy, the financial compounding story, and how Wall Street's view evolved across four years.</description>
-      <enclosure url="https://tutejaarjun.github.io/abracadabra/VEEV_Deep_Dive_All_Reports.mp3" length="51555820" type="audio/mpeg"/>
-      <guid>a1b2c3d4e5f6789012345678abcdef01</guid>
-      <pubDate>Sun, 29 Mar 2026 18:00:00 -0000</pubDate>
-      <itunes:duration>53:42</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>AAPL Q1 2026 Podcast</title>
-      <description>Apple Earnings Breakdown — Q1 Fiscal 2026 A Two-Host Deep Dive  HOSTS: ALEX and MORGAN  ---  [INTRO]  ALEX: Welcome back. I'm Alex.  MORGAN: And I'm Morgan. Today we're breaking down Apple's fiscal first quarter of 2026 — the quarter ending December 2025. And Apple, just… had a moment.  ALEX: They really did. Tim Cook opened the call with this: &quot;I am proud to say that we just had a quarter for the record books.&quot;  MORGAN: That's not standard CEO boilerplate. &quot;Quarter for the record books.&quot; And th...</description>
-      <enclosure url="https://tutejaarjun.github.io/abracadabra/AAPL_Q1_2026_podcast.mp3" length="7864128" type="audio/mpeg"/>
-      <guid>c44737a19f7775f23398f26c214542ab</guid>
-      <pubDate>Sat, 28 Mar 2026 15:53:14 -0000</pubDate>
-      <itunes:duration>07:59</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
   </channel>
 </rss>
