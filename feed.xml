@@ -19,6 +19,16 @@
     </itunes:category>
     <itunes:image href="https://tutejaarjun.github.io/abracadabra/cover.jpg"/>
     <item>
+      <title>WOODS Conf Prep</title>
+      <description>Conference preparation briefing — Greek turnarounds and Eurasian super apps.</description>
+      <enclosure url="https://tutejaarjun.github.io/abracadabra/WOODS_conf_prep.mp3" length="25630230" type="audio/mpeg"/>
+      <guid>woods-conf-prep-20260330</guid>
+      <pubDate>Mon, 30 Mar 2026 17:00:00 -0000</pubDate>
+      <itunes:duration>26:42</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>VEEV — The Digital Nervous System of Global Pharma</title>
       <description>Veeva Systems: The Digital Nervous System of Global Pharma. A NotebookLM-generated deep dive covering Veeva's role as the operating platform for life sciences — Commercial Cloud, Development Cloud, the Vault CRM migration, competitive dynamics, and long-term investment thesis.</description>
       <enclosure url="https://tutejaarjun.github.io/abracadabra/VEEV_Digital_Nervous_System.mp3" length="38897926" type="audio/mpeg"/>
