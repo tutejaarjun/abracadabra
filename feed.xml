@@ -19,22 +19,22 @@
     </itunes:category>
     <itunes:image href="https://tutejaarjun.github.io/abracadabra/cover.jpg"/>
     <item>
-      <title>VEEV Q4 2026 Strategic Briefing</title>
-      <description>Veeva Systems Strategic Briefing. Fiscal Q4 2026 Earnings Call.  Welcome to this strategic briefing on Veeva Systems. This is your deep dive into what's actually changing at this company, beyond the quarterly noise. We're covering the Vault CRM migration, their AI philosophy, how they think about trust and culture, the evolving product portfolio, and where this company is headed over the next decade.  Let's start with the biggest strategic story at Veeva right now: the Vault CRM migration away f...</description>
-      <enclosure url="https://tutejaarjun.github.io/abracadabra/VEEV_Q4_2026_strategic_briefing.mp3" length="7612416" type="audio/mpeg"/>
-      <guid>34bd779a3ed0653b806a64941e1c3dd8</guid>
-      <pubDate>Sat, 28 Mar 2026 09:04:58 -0000</pubDate>
-      <itunes:duration>07:44</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
       <title>VEEV — The Digital Nervous System of Global Pharma</title>
       <description>Veeva Systems: The Digital Nervous System of Global Pharma. A NotebookLM-generated deep dive covering Veeva's role as the operating platform for life sciences — Commercial Cloud, Development Cloud, the Vault CRM migration, competitive dynamics, and long-term investment thesis.</description>
       <enclosure url="https://tutejaarjun.github.io/abracadabra/VEEV_Digital_Nervous_System.mp3" length="38897926" type="audio/mpeg"/>
       <guid>b2c3d4e5f6789012345678abcdef0123</guid>
       <pubDate>Sun, 29 Mar 2026 20:00:00 -0000</pubDate>
       <itunes:duration>40:31</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>VEEV Deep Dive — Five Banks, Four Years</title>
+      <description>Veeva Systems: The Pharma Software Fortress. A comprehensive deep dive synthesizing equity research from Cowen (Dec 2022), JPMorgan (Oct 2022 and Sep 2025), BNP Paribas (Oct 2024), BMO Capital Markets (Nov 2025), and UBS (Feb 2026). Covers the full business model, the Vault CRM migration, the Salesforce and IQVIA competitive battles, the AI debate, management philosophy, the financial compounding story, and how Wall Street's view evolved across four years.</description>
+      <enclosure url="https://tutejaarjun.github.io/abracadabra/VEEV_Deep_Dive_All_Reports.mp3" length="51555820" type="audio/mpeg"/>
+      <guid>a1b2c3d4e5f6789012345678abcdef01</guid>
+      <pubDate>Sun, 29 Mar 2026 18:00:00 -0000</pubDate>
+      <itunes:duration>53:42</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
