@@ -38,5 +38,25 @@
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>speech-script</title>
+      <description>speech-script</description>
+      <enclosure url="https://tutejaarjun.github.io/abracadabra/speech-script.mp3" length="30709050" type="audio/mpeg"/>
+      <guid>c3d4e5f6789012345678abcdef012345</guid>
+      <pubDate>Sun, 29 Mar 2026 21:00:00 -0000</pubDate>
+      <itunes:duration>10:39</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>speech-script-short</title>
+      <description>speech-script-short</description>
+      <enclosure url="https://tutejaarjun.github.io/abracadabra/speech-script-short.mp3" length="7356090" type="audio/mpeg"/>
+      <guid>d4e5f6789012345678abcdef01234567</guid>
+      <pubDate>Sun, 29 Mar 2026 21:01:00 -0000</pubDate>
+      <itunes:duration>02:33</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
