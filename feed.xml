@@ -19,6 +19,26 @@
     </itunes:category>
     <itunes:image href="https://tutejaarjun.github.io/abracadabra/cover.jpg"/>
     <item>
+      <title>How Wise is Replacing the SWIFT Network</title>
+      <description>A deep dive into Wise's mission to build a new cross-border payments infrastructure — how they are challenging the 50-year-old SWIFT network, building their own correspondent banking relationships, and what it means for the future of global money movement.</description>
+      <enclosure url="https://tutejaarjun.github.io/abracadabra/How_Wise_is_replacing_the_SWIFT_network.mp3" length="25012904" type="audio/mpeg"/>
+      <guid>b7c3e91d4f2a6085e1d9c4f7a3b82e50</guid>
+      <pubDate>Thu, 02 Apr 2026 10:00:00 -0000</pubDate>
+      <itunes:duration>52:06</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Inside Adyen's Trillion Euro Payment Engine</title>
+      <description>An exploration of Adyen's unified commerce platform — how they built a payments infrastructure that processes trillions in volume for merchants like Netflix, Spotify, and McDonald's, and why their single-platform architecture is so difficult to replicate.</description>
+      <enclosure url="https://tutejaarjun.github.io/abracadabra/Inside_Adyen_Trillion_Euro_Payment_Engine.mp3" length="23662974" type="audio/mpeg"/>
+      <guid>e4d82f6c1b9a3057c2e8d5f1b6c94a73</guid>
+      <pubDate>Thu, 02 Apr 2026 10:30:00 -0000</pubDate>
+      <itunes:duration>56:20</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
       <title>WOODS Conf Prep</title>
       <description>Conference preparation briefing — Greek turnarounds and Eurasian super apps.</description>
       <enclosure url="https://tutejaarjun.github.io/abracadabra/WOODS_conf_prep.mp3" length="19222707" type="audio/mpeg"/>
@@ -30,21 +50,51 @@
     </item>
     <item>
       <title>VEEV — The Digital Nervous System of Global Pharma</title>
-      <description>Veeva Systems: The Digital Nervous System of Global Pharma. A NotebookLM-generated deep dive covering Veeva's role as the operating platform for life sciences — Commercial Cloud, Development Cloud, the Vault CRM migration, competitive dynamics, and long-term investment thesis.</description>
+      <description>Veeva Systems: The Digital Nervous System of Global Pharma. A deep dive covering Veeva's role as the operating platform for life sciences — Commercial Cloud, Development Cloud, the Vault CRM migration, and competitive dynamics.</description>
       <enclosure url="https://tutejaarjun.github.io/abracadabra/VEEV_Digital_Nervous_System.mp3" length="38897926" type="audio/mpeg"/>
-      <guid>b2c3d4e5f6789012345678abcdef0123</guid>
-      <pubDate>Sun, 29 Mar 2026 20:00:00 -0000</pubDate>
+      <guid>veev-digital-nervous-system-20260329</guid>
+      <pubDate>Sun, 29 Mar 2026 20:35:14 -0000</pubDate>
       <itunes:duration>40:31</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
       <title>VEEV Deep Dive — Five Banks, Four Years</title>
-      <description>Veeva Systems: The Pharma Software Fortress. A comprehensive deep dive synthesizing equity research from Cowen (Dec 2022), JPMorgan (Oct 2022 and Sep 2025), BNP Paribas (Oct 2024), BMO Capital Markets (Nov 2025), and UBS (Feb 2026). Covers the full business model, the Vault CRM migration, the Salesforce and IQVIA competitive battles, the AI debate, management philosophy, the financial compounding story, and how Wall Street's view evolved across four years.</description>
+      <description>Synthesizes equity research from five major banks spanning 2022–2026, examining Veeva's business model, the Vault CRM migration, competitive threats, and financial performance narrative.</description>
       <enclosure url="https://tutejaarjun.github.io/abracadabra/VEEV_Deep_Dive_All_Reports.mp3" length="51555820" type="audio/mpeg"/>
-      <guid>a1b2c3d4e5f6789012345678abcdef01</guid>
-      <pubDate>Sun, 29 Mar 2026 18:00:00 -0000</pubDate>
+      <guid>veev-deep-dive-all-reports-20260329</guid>
+      <pubDate>Sun, 29 Mar 2026 20:15:34 -0000</pubDate>
       <itunes:duration>53:42</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>VEEV Deep Dive — Cowen Research</title>
+      <description>A deep dive on Veeva Systems based on Cowen equity research from December 2022. Covers the business model, Vault CRM migration, competitive landscape, and long-term growth thesis.</description>
+      <enclosure url="https://tutejaarjun.github.io/abracadabra/VEEV_Deep_Dive_Cowen_Research.mp3" length="30310026" type="audio/mpeg"/>
+      <guid>veev-deep-dive-cowen-20260329</guid>
+      <pubDate>Sun, 29 Mar 2026 10:28:33 -0000</pubDate>
+      <itunes:duration>30:49</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>VEEV Q4 2026 Strategic Briefing</title>
+      <description>Veeva Systems Strategic Briefing. Fiscal Q4 2026 Earnings Call. Covers the Vault CRM migration, AI philosophy, trust and culture, the evolving product portfolio, and where the company is headed over the next decade.</description>
+      <enclosure url="https://tutejaarjun.github.io/abracadabra/VEEV_Q4_2026_strategic_briefing.mp3" length="7612416" type="audio/mpeg"/>
+      <guid>veev-q4-2026-strategic-20260328</guid>
+      <pubDate>Sat, 28 Mar 2026 09:04:57 -0000</pubDate>
+      <itunes:duration>07:44</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>AAPL Q1 2026 Podcast</title>
+      <description>Apple Earnings Breakdown — Q1 Fiscal 2026. A two-host deep dive into Apple's record-breaking fiscal first quarter ending December 2025, covering revenue, services growth, and strategic outlook.</description>
+      <enclosure url="https://tutejaarjun.github.io/abracadabra/AAPL_Q1_2026_podcast.mp3" length="7864128" type="audio/mpeg"/>
+      <guid>aapl-q1-2026-podcast-20260328</guid>
+      <pubDate>Sat, 28 Mar 2026 15:53:12 -0000</pubDate>
+      <itunes:duration>07:59</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
