@@ -98,5 +98,15 @@
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
+    <item>
+      <title>Arjun's Philosophy — Investment Framework (Full Narration)</title>
+      <description>A comprehensive 2-hour narration of Arjun's investment philosophy across 30 companies and three frameworks: Serial Acquirers (Constellation Software, Lifco, HEICO, TransDigm, Couche-Tard, and more), Niche Lenders and Underwriters (Protector, Kinsale, ServisFirst, Interactive Brokers, Bajaj Finance, and more), and Idiosyncratic Thinkers (Veeva, NVR, Amazon, Netflix, MSCI).</description>
+      <enclosure url="https://tutejaarjun.github.io/abracadabra/Arjuns_Philosophy.mp3" length="26047339" type="audio/mpeg"/>
+      <guid>arjuns-philosophy-full-narration-20260412</guid>
+      <pubDate>Sun, 12 Apr 2026 10:00:00 -0000</pubDate>
+      <itunes:duration>2:24:42</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
   </channel>
 </rss>
