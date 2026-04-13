@@ -19,6 +19,107 @@
     </itunes:category>
     <itunes:image href="https://tutejaarjun.github.io/abracadabra/cover.jpg"/>
     <item>
+      <title>How FTAI Aviation Profits from Old Engines</title>
+      <description>Strategic briefing on FTAI Aviation — the contrarian bet on aging CFM56 engines and how maintenance monopolies create durable cash flows.</description>
+      <enclosure url="https://tutejaarjun.github.io/abracadabra/How_FTAI_Aviation_profits_from_old_engines.mp3" length="20816568" type="audio/mpeg"/>
+      <guid>e18a5eb3517e6593211919258a14de79</guid>
+      <pubDate>Sun, 12 Apr 2026 20:00:00 -0000</pubDate>
+      <itunes:duration>21:10</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Broadcom: AI Networking and the VMware Pivot</title>
+      <description>Strategic briefing on Broadcom — their AI networking dominance and the bold VMware acquisition reshaping enterprise infrastructure.</description>
+      <enclosure url="https://tutejaarjun.github.io/abracadabra/Broadcom_AI_Networking_and_the_VMware_Pivot.mp3" length="19169913" type="audio/mpeg"/>
+      <guid>76833564fb722ff4bf6d3f2cccc1e429</guid>
+      <pubDate>Sun, 12 Apr 2026 19:50:00 -0000</pubDate>
+      <itunes:duration>19:30</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Why Nvidia is Breaking the Power Grid</title>
+      <description>Strategic briefing on Nvidia — the GPU monopoly powering the AI revolution and the energy infrastructure challenges it creates.</description>
+      <enclosure url="https://tutejaarjun.github.io/abracadabra/Why_Nvidia_is_Breaking_the_Power_Grid.mp3" length="18352542" type="audio/mpeg"/>
+      <guid>b8f46af3f210884256f33bb4ac4116ff</guid>
+      <pubDate>Sun, 12 Apr 2026 19:40:00 -0000</pubDate>
+      <itunes:duration>18:40</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Arista Networks: The Nervous System of AI</title>
+      <description>Strategic briefing on Arista Networks — how they became the backbone of hyperscale data centers and why AI networking is their next growth vector.</description>
+      <enclosure url="https://tutejaarjun.github.io/abracadabra/Arista_Networks_the_nervous_system_of_AI.mp3" length="16544294" type="audio/mpeg"/>
+      <guid>5d99dcde29ee95a80a10f5d01ab7d51f</guid>
+      <pubDate>Sun, 12 Apr 2026 19:30:00 -0000</pubDate>
+      <itunes:duration>16:49</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>How Shopify Built the Internet's Invisible Mall</title>
+      <description>Strategic briefing on Shopify — the infrastructure layer powering millions of online stores, and how they're expanding beyond commerce.</description>
+      <enclosure url="https://tutejaarjun.github.io/abracadabra/How_Shopify_Built_the_Internets_Invisible_Mall.mp3" length="15298096" type="audio/mpeg"/>
+      <guid>24c8706cbe8ed12a0b6e78e71e2ef94b</guid>
+      <pubDate>Sun, 12 Apr 2026 19:20:00 -0000</pubDate>
+      <itunes:duration>15:33</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Trisura: Dual Engine for Specialty Insurance Growth</title>
+      <description>Strategic briefing on Trisura Group — how they built a dual-engine model combining fronting and specialty insurance to compound in niche markets.</description>
+      <enclosure url="https://tutejaarjun.github.io/abracadabra/Trisura_s_dual_engine_for_specialty_insurance_growth.mp3" length="13219167" type="audio/mpeg"/>
+      <guid>fed6b87660962120419453cccf2af50e</guid>
+      <pubDate>Sun, 12 Apr 2026 19:10:00 -0000</pubDate>
+      <itunes:duration>13:26</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>How Wise is Replacing the SWIFT Network</title>
+      <description>Strategic briefing on Wise (formerly TransferWise) — building parallel financial infrastructure to displace SWIFT and legacy banking rails.</description>
+      <enclosure url="https://tutejaarjun.github.io/abracadabra/How_Wise_is_replacing_the_SWIFT_network.mp3" length="25012904" type="audio/mpeg"/>
+      <guid>a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6</guid>
+      <pubDate>Wed, 02 Apr 2026 10:00:00 -0000</pubDate>
+      <itunes:duration>25:26</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+    <item>
+      <title>Inside Adyen's Trillion-Euro Payment Engine</title>
+      <description>Strategic briefing on Adyen — the single-platform payments processor handling trillions in volume for the world's largest enterprises.</description>
+      <enclosure url="https://tutejaarjun.github.io/abracadabra/Inside_Adyen_Trillion_Euro_Payment_Engine.mp3" length="23662974" type="audio/mpeg"/>
+      <guid>e4d82f6c1b9a3057c2e8d5f1b6c94a73</guid>
+      <pubDate>Thu, 02 Apr 2026 10:30:00 -0000</pubDate>
+      <itunes:duration>24:03</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+  </channel>
+</rss><?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Earnings Call Strategic Briefings</title>
+    <description>Weekly strategic briefings distilled from earnings call transcripts. Covers long-term strategy, culture, org structure, and competitive positioning — no quarterly noise.</description>
+    <language>en-us</language>
+    <link>https://tutejaarjun.github.io/abracadabra</link>
+    <atom:link href="https://tutejaarjun.github.io/abracadabra/feed.xml" rel="self" type="application/rss+xml"/>
+    <itunes:author>Arjun's Earnings Agent</itunes:author>
+    <itunes:summary>Weekly strategic briefings distilled from earnings call transcripts. Covers long-term strategy, culture, org structure, and competitive positioning — no quarterly noise.</itunes:summary>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Arjun's Earnings Agent</itunes:name>
+      <itunes:email>tutejaarjun@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:category text="Business">
+      <itunes:category text="Investing"/>
+    </itunes:category>
+    <itunes:image href="https://tutejaarjun.github.io/abracadabra/cover.jpg"/>
+    <item>
       <title>How Wise is Replacing the SWIFT Network</title>
       <description>A deep dive into Wise's mission to build a new cross-border payments infrastructure — how they are challenging the 50-year-old SWIFT network, building their own correspondent banking relationships, and what it means for the future of global money movement.</description>
       <enclosure url="https://tutejaarjun.github.io/abracadabra/How_Wise_is_replacing_the_SWIFT_network.mp3" length="25012904" type="audio/mpeg"/>
