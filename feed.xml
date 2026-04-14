@@ -24,7 +24,7 @@
       <enclosure url="https://tutejaarjun.github.io/abracadabra/How_FTAI_Aviation_profits_from_old_engines.mp3" length="20816568" type="audio/mpeg"/>
       <guid>e18a5eb3517e6593211919258a14de79</guid>
       <pubDate>Sun, 12 Apr 2026 20:00:00 -0000</pubDate>
-      <itunes:duration>21:10</itunes:duration>
+      <itunes:duration>3:27:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -34,7 +34,7 @@
       <enclosure url="https://tutejaarjun.github.io/abracadabra/Broadcom_AI_Networking_and_the_VMware_Pivot.mp3" length="19169913" type="audio/mpeg"/>
       <guid>76833564fb722ff4bf6d3f2cccc1e429</guid>
       <pubDate>Sun, 12 Apr 2026 19:50:00 -0000</pubDate>
-      <itunes:duration>19:30</itunes:duration>
+      <itunes:duration>3:11:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -44,7 +44,7 @@
       <enclosure url="https://tutejaarjun.github.io/abracadabra/Why_Nvidia_is_Breaking_the_Power_Grid.mp3" length="18352542" type="audio/mpeg"/>
       <guid>b8f46af3f210884256f33bb4ac4116ff</guid>
       <pubDate>Sun, 12 Apr 2026 19:40:00 -0000</pubDate>
-      <itunes:duration>18:40</itunes:duration>
+      <itunes:duration>3:03:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -54,7 +54,7 @@
       <enclosure url="https://tutejaarjun.github.io/abracadabra/Arista_Networks_the_nervous_system_of_AI.mp3" length="16544294" type="audio/mpeg"/>
       <guid>5d99dcde29ee95a80a10f5d01ab7d51f</guid>
       <pubDate>Sun, 12 Apr 2026 19:30:00 -0000</pubDate>
-      <itunes:duration>16:49</itunes:duration>
+      <itunes:duration>2:53:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -64,7 +64,7 @@
       <enclosure url="https://tutejaarjun.github.io/abracadabra/How_Shopify_Built_the_Internets_Invisible_Mall.mp3" length="15298096" type="audio/mpeg"/>
       <guid>24c8706cbe8ed12a0b6e78e71e2ef94b</guid>
       <pubDate>Sun, 12 Apr 2026 19:20:00 -0000</pubDate>
-      <itunes:duration>15:33</itunes:duration>
+      <itunes:duration>2:33:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -74,7 +74,7 @@
       <enclosure url="https://tutejaarjun.github.io/abracadabra/Trisura_s_dual_engine_for_specialty_insurance_growth.mp3" length="13219167" type="audio/mpeg"/>
       <guid>fed6b87660962120419453cccf2af50e</guid>
       <pubDate>Sun, 12 Apr 2026 19:10:00 -0000</pubDate>
-      <itunes:duration>13:26</itunes:duration>
+      <itunes:duration>2:12:00</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -84,7 +84,7 @@
       <enclosure url="https://tutejaarjun.github.io/abracadabra/How_Wise_is_replacing_the_SWIFT_network.mp3" length="25012904" type="audio/mpeg"/>
       <guid>a1b2c3d4e5f6a7b8c9d0e1f2a3b4c5d6</guid>
       <pubDate>Wed, 02 Apr 2026 10:00:00 -0000</pubDate>
-      <itunes:duration>25:26</itunes:duration>
+      <itunes:duration>52:06</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
@@ -94,54 +94,13 @@
       <enclosure url="https://tutejaarjun.github.io/abracadabra/Inside_Adyen_Trillion_Euro_Payment_Engine.mp3" length="23662974" type="audio/mpeg"/>
       <guid>e4d82f6c1b9a3057c2e8d5f1b6c94a73</guid>
       <pubDate>Thu, 02 Apr 2026 10:30:00 -0000</pubDate>
-      <itunes:duration>24:03</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-  </channel>
-</rss><?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
-  <channel>
-    <title>Earnings Call Strategic Briefings</title>
-    <description>Weekly strategic briefings distilled from earnings call transcripts. Covers long-term strategy, culture, org structure, and competitive positioning — no quarterly noise.</description>
-    <language>en-us</language>
-    <link>https://tutejaarjun.github.io/abracadabra</link>
-    <atom:link href="https://tutejaarjun.github.io/abracadabra/feed.xml" rel="self" type="application/rss+xml"/>
-    <itunes:author>Arjun's Earnings Agent</itunes:author>
-    <itunes:summary>Weekly strategic briefings distilled from earnings call transcripts. Covers long-term strategy, culture, org structure, and competitive positioning — no quarterly noise.</itunes:summary>
-    <itunes:explicit>no</itunes:explicit>
-    <itunes:type>episodic</itunes:type>
-    <itunes:owner>
-      <itunes:name>Arjun's Earnings Agent</itunes:name>
-      <itunes:email>tutejaarjun@gmail.com</itunes:email>
-    </itunes:owner>
-    <itunes:category text="Business">
-      <itunes:category text="Investing"/>
-    </itunes:category>
-    <itunes:image href="https://tutejaarjun.github.io/abracadabra/cover.jpg"/>
-    <item>
-      <title>How Wise is Replacing the SWIFT Network</title>
-      <description>A deep dive into Wise's mission to build a new cross-border payments infrastructure — how they are challenging the 50-year-old SWIFT network, building their own correspondent banking relationships, and what it means for the future of global money movement.</description>
-      <enclosure url="https://tutejaarjun.github.io/abracadabra/How_Wise_is_replacing_the_SWIFT_network.mp3" length="25012904" type="audio/mpeg"/>
-      <guid>b7c3e91d4f2a6085e1d9c4f7a3b82e50</guid>
-      <pubDate>Thu, 02 Apr 2026 10:00:00 -0000</pubDate>
-      <itunes:duration>52:06</itunes:duration>
-      <itunes:explicit>no</itunes:explicit>
-      <itunes:episodeType>full</itunes:episodeType>
-    </item>
-    <item>
-      <title>Inside Adyen's Trillion Euro Payment Engine</title>
-      <description>An exploration of Adyen's unified commerce platform — how they built a payments infrastructure that processes trillions in volume for merchants like Netflix, Spotify, and McDonald's, and why their single-platform architecture is so difficult to replicate.</description>
-      <enclosure url="https://tutejaarjun.github.io/abracadabra/Inside_Adyen_Trillion_Euro_Payment_Engine.mp3" length="23662974" type="audio/mpeg"/>
-      <guid>e4d82f6c1b9a3057c2e8d5f1b6c94a73</guid>
-      <pubDate>Thu, 02 Apr 2026 10:30:00 -0000</pubDate>
       <itunes:duration>56:20</itunes:duration>
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
     <item>
       <title>Arjun's Philosophy — Investment Framework (Full Narration)</title>
-      <description>A comprehensive 2-hour narration of Arjun's investment philosophy across 30 companies and three frameworks: Serial Acquirers (Constellation Software, Lifco, HEICO, TransDigm, Couche-Tard, and more), Niche Lenders and Underwriters (Protector, Kinsale, ServisFirst, Interactive Brokers, Bajaj Finance, and more), and Idiosyncratic Thinkers (Veeva, NVR, Amazon, Netflix, MSCI).</description>
+      <description>A comprehensive 2+ hour narration of Arjun's investment philosophy across 30 companies and three frameworks: Serial Acquirers, Niche Lenders and Underwriters, and Idiosyncratic Thinkers.</description>
       <enclosure url="https://tutejaarjun.github.io/abracadabra/Arjuns_Philosophy.mp3" length="26047339" type="audio/mpeg"/>
       <guid>arjuns-philosophy-full-narration-20260412</guid>
       <pubDate>Sun, 12 Apr 2026 10:00:00 -0000</pubDate>
