@@ -1,11 +1,11 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
   <channel>
     <title>Earnings Call Strategic Briefings</title>
     <description>Weekly strategic briefings distilled from earnings call transcripts. Covers long-term strategy, culture, org structure, and competitive positioning — no quarterly noise.</description>
     <language>en-us</language>
     <link>https://tutejaarjun.github.io/abracadabra</link>
-    <atom:link href="https://tutejaarjun.github.io/abracadabra/feed.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://tutejaarjun.github.io/abracadabra/feed.xml" rel="self" type="application/rss+xml" />
     <itunes:author>Arjun's Earnings Agent</itunes:author>
     <itunes:summary>Weekly strategic briefings distilled from earnings call transcripts. Covers long-term strategy, culture, org structure, and competitive positioning — no quarterly noise.</itunes:summary>
     <itunes:explicit>no</itunes:explicit>
@@ -15,9 +15,9 @@
       <itunes:email>tutejaarjun@gmail.com</itunes:email>
     </itunes:owner>
     <itunes:category text="Business">
-      <itunes:category text="Investing"/>
+      <itunes:category text="Investing" />
     </itunes:category>
-    <itunes:image href="https://tutejaarjun.github.io/abracadabra/cover.jpg"/>
+    <itunes:image href="https://tutejaarjun.github.io/abracadabra/cover.jpg" />
     <item><title>mediatek narrative</title><description>Strategic briefing distilled from: mediatek narrative</description><enclosure url="https://tutejaarjun.github.io/abracadabra/mediatek_narrative.mp3" length="26342339" type="audio/mpeg" /><guid>mediatek-narrative-20260425</guid><pubDate>Sat, 25 Apr 2026 15:19:00 -0000</pubDate><itunes:duration>0:85:00</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item>
     <item><title>fuyao narrative</title><description>Strategic briefing distilled from: fuyao narrative</description><enclosure url="https://tutejaarjun.github.io/abracadabra/fuyao_narrative.mp3" length="18334659" type="audio/mpeg" /><guid>fuyao-narrative-20260425</guid><pubDate>Sat, 25 Apr 2026 15:18:19 -0000</pubDate><itunes:duration>0:59:00</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item>
     <item>
@@ -150,5 +150,5 @@
       <itunes:explicit>no</itunes:explicit>
       <itunes:episodeType>full</itunes:episodeType>
     </item>
-  </channel>
+  <item><title>Monolithic Power Systems and the AI Bottleneck</title><description>Strategic briefing on monolithic power systems and their constraints in the AI era.</description><enclosure url="https://tutejaarjun.github.io/abracadabra/monolithic_narrative.mp3" length="21507062" type="audio/mpeg" /><guid>monolithic-narrative-20260427</guid><pubDate>Mon, 27 Apr 2026 12:40:43 -0000</pubDate><itunes:duration>0:44:00</itunes:duration><itunes:explicit>no</itunes:explicit><itunes:episodeType>full</itunes:episodeType></item></channel>
 </rss>
