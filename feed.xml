@@ -12,6 +12,17 @@
     <itunes:type>episodic</itunes:type>
 
     <item>
+      <title>ThirdBridge Expert Analysis: 23 Companies Deep Dive (V2)</title>
+      <description>Strategic briefing on 23 flagged companies analyzed through the Anatomy of a Compounder framework, based on expert interviews from ThirdBridge. AI-generated from ThirdBridge Expert Analysis document.</description>
+      <enclosure url="https://tutejaarjun.github.io/abracadabra/ThirdBridge_Expert_Analysis_v2.mp3" length="1835733" type="audio/mpeg"/>
+      <guid>4af32f6aec114593d4a448526270dfa9</guid>
+      <pubDate>Wed, 04 Jun 2026 20:00:00 -0000</pubDate>
+      <itunes:duration>1:56</itunes:duration>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:episodeType>full</itunes:episodeType>
+    </item>
+
+    <item>
       <title>Structural Moats And Cultural Red Flags</title>
       <description>Strategic briefing covering long-term strategy, competitive positioning, and organizational dynamics.</description>
       <enclosure url="https://tutejaarjun.github.io/abracadabra/Structural_Moats_and_Cultural_Red_Flags.mp3" length="26806325" type="audio/mpeg"/>
