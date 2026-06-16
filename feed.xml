@@ -3,6 +3,11 @@
   <channel>
     <title>Earnings Call Strategic Briefings</title>
     <description>Weekly strategic briefings distilled from earnings call transcripts. Covers long-term strategy, culture, org structure, and competitive positioning — no quarterly noise.</description>
+    <image>
+      <url>https://tutejaarjun.github.io/abracadabra/podcast_cover.jpg</url>
+      <title>Earnings Call Strategic Briefings</title>
+      <link>https://tutejaarjun.github.io/abracadabra</link>
+    </image>
     <language>en-us</language>
     <link>https://tutejaarjun.github.io/abracadabra</link>
     <atom:link href="https://tutejaarjun.github.io/abracadabra/feed.xml" rel="self" type="application/rss+xml"/>
